@@ -7,12 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+We are going to create an application for cat owners and potential cat owners. It will include a list of cats that are available for adoption, a list of recommended veterinarians,
+a way for users to log in and track their cats' needs, a list of cat friendly locations like cat cafes, and much, much more. 
 ### Features
-Include Features here
+Welcome page: a page to welcome users to the application and give them the option to log in or continue as a guest
+Registration page: a page where users have the option to register for an account with the app
+Login page: a page where users can log in to their profile 
+Profile page: a page where users can add their cats, fill in an 'about me' section, add their favorite places, etc.
 ### Technologies
-Include Technologies here
+C#/MVC
+HTML, CSS, JS 
+SQL/EF core database
+Microsoft Identity
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to learn how to connect Google maps to the website to show the locations of veterinarians and other cat friendly locations using the Google Maps API.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/suBjk57G/project-board
