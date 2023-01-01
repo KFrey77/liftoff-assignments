@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
- ![Optional Text](file:///C:/Users/Kelly/Downloads/Keyboard%20CAts.pdf)
+ ![Wireframes](https://www.flickr.com/photos/197305843@N03/52599173546/in/dateposted-public/)
 
  
  ### Project Tracker
