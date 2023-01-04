@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
- ![Wireframes](https://www.flickr.com/photos/197305843@N03/52599173546/in/dateposted-public/)
+<img src= "//live.staticflickr.com/65535/52599173546_2e190375ce_b.jpg"
 
  
  ### Project Tracker
